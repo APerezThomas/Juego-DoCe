@@ -1,5 +1,4 @@
 # **DoCe**  
-**Grupo: Pala**  
 
 ## **Antes de Jugar**  
 
